@@ -1,1 +1,1 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch-oss:6.3.2
+FROM quay.io/pires/docker-elasticsearch-kubernetes:6.2.4
