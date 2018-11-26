@@ -1,1 +1,1 @@
-FROM quay.io/pires/docker-elasticsearch-kubernetes:6.2.4
+FROM quay.io/pires/docker-elasticsearch-kubernetes:6.4.3
