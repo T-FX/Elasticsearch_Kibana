@@ -1,1 +1,1 @@
-FROM quay.io/pires/docker-elasticsearch-kubernetes:6.2.4
+FROM gcr.io/google-containers/elasticsearch:v6.2.4
