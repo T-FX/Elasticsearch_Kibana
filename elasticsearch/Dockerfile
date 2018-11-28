@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/elasticsearch:v6.2.4
+FROM docker.elastic.co/elasticsearch/elasticsearch:6.2.4
